@@ -1,5 +1,5 @@
-# bank-tech-test
-## User stories
+# MAKERS10-Bank-Tech-Test
+## User Stories
 - You should be able to interact with your code via a REPL like IRB or Node. (You don't need to implement a command line interface that takes input from STDIN.)
 - Deposits, withdrawal.
 - Account statement (date, amount, balance) printing.
